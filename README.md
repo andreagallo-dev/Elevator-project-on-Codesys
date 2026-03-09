@@ -2,6 +2,8 @@
 
 An advanced industrial elevator control system developed in **CODESYS** for the *Control Systems Technologies* course made in University of Bologna. The project implements a modular architecture using the **GA (Generic Actuator)** approach, combining **SFC (Sequential Function Chart)** for logic flow and **ST (Structured Text)** for algorithmic calculations.
 
+![Elevator-simulation](Elevator-simulation.png)
+
 ## 🏗 Project Architecture
 The system is built on a "Handshake Policy" and is divided into three main Functional Blocks (GAs):
 
