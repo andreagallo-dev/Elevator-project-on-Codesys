@@ -31,9 +31,9 @@ Manages the human-machine interface and the logic of floor requests:
 This project was co-developed by:
 
 *   **Andrea Gallo** ([@andreagallo-dev](https://github.com/andreagallo-dev))
-*   **Giorgio Ripani** ([@username_giorgio](https://github.com/giorgioripani))
-*   **Francesco Tassi** ([@username_francesco](https://github.com/francesco-tassi))
-*   **Leonardo Lodolini** ([@username_leonardo](https://github.com/sassuolo22)) 
+*   **Giorgio Ripani** ([@giorgioripani](https://github.com/giorgioripani))
+*   **Francesco Tassi** ([@francesco-tassi](https://github.com/francesco-tassi))
+*   **Leonardo Lodolini** ([@sassuolo22](https://github.com/sassuolo22)) 
 
 ---
 *Project Date: January 2026*
